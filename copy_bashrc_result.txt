@@ -1,1 +1,4 @@
-Файл ~/.bashrc успешно скопирован в ~/backup/.bashrc.backup
+Файл ~/.bashrc успешно скопирован в директорию ~/backup с именем .bashrc.backup
+Скрипт выполнен: Sun Mar 16 23:41:47 MSK 2025
+Информация о файле ~/backup/.bashrc.backup:
+-rw-r--r-- 1 artemmelnikov artemmelnikov 3771 Mar 16 23:41 .bashrc.backup
