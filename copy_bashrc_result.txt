@@ -1,0 +1,1 @@
+Файл ~/.bashrc успешно скопирован в ~/backup/.bashrc.backup
